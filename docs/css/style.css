@@ -22,22 +22,6 @@ div {
     position: relative;
 }
 
-.left-side {
-    height: 1000px;
-    width: 45px;
-    background-color: #69bddf;
-    float: left;
-    position: fixed;
-}
-
-.right-side {
-    height: 1010px;
-    width: 45px;
-    background-color: #69bddf;
-    float: right;
-    position: inherit;
-}
-
 .content {
     display: inline-block;
     color: #163a29;
