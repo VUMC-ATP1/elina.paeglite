@@ -40,6 +40,7 @@ div {
 
 .content {
     display: inline-block;
+    color: #163a29;
     margin-top: 6px;
     margin-left: 60px;
     width: 75%;
@@ -52,7 +53,7 @@ li {
 }
 
 .paragraphStyle {
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
 }
 
